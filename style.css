@@ -1,0 +1,126 @@
+
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+
+
+        .header{
+            text-align: center;
+            background-color: cornsilk;
+            padding-bottom: 20px;
+            margin-bottom: 2px; 
+        }
+        h5{
+            margin: 5px;
+        }
+        h3{
+            margin: 0px;
+            padding: 10px;
+        }
+
+
+       .nagivation{
+        display: flex;
+        justify-content: center;
+       }
+       .search{
+        width: 20px;
+      height: 30px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+      margin: 15px 0px;
+      float:right ;
+      background: rgb(230, 175, 12);
+      
+      
+    }
+       .searchtab{
+      height: 20px;
+      width: 150px;
+      float:right ;
+      padding: 4px 6px ;
+      margin: 15px 0px;
+      border: 1px solid #ccc;
+ }
+ 
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: #333;
+        }
+        
+        li {
+          float: left;
+        }
+        
+        li a {
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+        }
+        
+        li a:hover {
+          background-color: #111;
+        }
+
+        
+ 
+        body{
+            background: rgb(238, 230, 230);
+            display: flex;
+            flex-direction: column;
+            margin: 10px;
+        }
+   .product{
+    height: 40px;
+    width: 40px;
+
+   }
+
+
+        .footer{
+            margin-top: 10px;
+            color: rgb(178, 178, 178);
+            display: flex;
+            text-align: left;
+            padding: 10px; 
+            background-color: rgb(10, 22, 43); 
+            font-size: 26px;
+    
+           
+        }
+                    .About{
+                        padding: 40px 40px 40px 20px;
+                        line-height: 30px;
+                    }
+                    .Help{
+                        padding: 40px;
+                        line-height: 30px; 
+                    }
+                    .POLICY{
+                        padding: 40px;
+                        line-height: 30px;
+                    }
+                    .Social{
+                        padding: 40px;
+                        line-height: 30px;
+                        border-right:1px solid #bbb;
+                    }
+                    .mail{
+                        padding: 30px;
+                        line-height: 30px;
+                    }
+                    a{
+                        color: rgb(244, 244, 244);
+                        text-decoration: none;
+                        line-height: 30px;
+                    }
+       
+      
